@@ -51,14 +51,6 @@
 ![Envoy](https://img.shields.io/badge/-Envoy-0C6DF7?style=flat&logo=envoy&logoColor=white)
 
 
-
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/canhhuy116)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/canhhuy116)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/canhhuy116)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/canhhuy116)
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=canhhuy116&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=canhhuy116&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
