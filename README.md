@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning to master the Backend system.<br>
-- 🌱 I’m currently learning Golang and Python.<br>
+- 🌱 I’m currently learning TypeScript, Golang, and Python.<br>
 - 🌱 I'm researching DevOps.
 
 # 💻 Tech Stack:
@@ -29,8 +29,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat)
 ![Gin](https://img.shields.io/badge/gin-%236336A6.svg?style=flat&logo=go&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![REST](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest&logoColor=white)
 
 ## Frontend
 
@@ -47,8 +45,6 @@
 ## DevOps
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Envoy](https://img.shields.io/badge/-Envoy-0C6DF7?style=flat&logo=envoy&logoColor=white)
 
 
 # 📊 GitHub Stats:
