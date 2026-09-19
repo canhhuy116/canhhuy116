@@ -1,55 +1,13 @@
-<h1 align="center"> Hi 👋🏻, I'm Canh-Huy Nguyen </br> 
-</h1>
+# Canh-Huy Nguyen
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/canhhuy116/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://facebook.com/canhhuy116">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
+**Software Engineer at NVIDIA · AI Infrastructure & Inference Platforms**
 
-# 💫 About Me:
-- 🌱 I’m currently learning to master the Backend system.<br>
-- 🌱 I’m currently learning TypeScript, Golang, and Python.<br>
-- 🌱 I'm researching DevOps.
+I build and operate infrastructure for GPU workloads and production AI inference. My work spans Kubernetes GPU platforms, model releases, and service reliability.
 
-# 💻 Tech Stack:
+- **GPU infrastructure:** GPU scheduling and resource sharing, multi-node inference, and visibility into capacity and workload placement.
+- **Model releases:** NVIDIA NIM release engineering and validation for Nemotron 3 Nano, Super, and Ultra, including inference runtime and API compatibility.
+- **Inference reliability:** Deployment, observability, and incident response for inference endpoints on [build.nvidia.com](https://build.nvidia.com/).
 
-## Languages
+I work primarily with **Go, Python, Kubernetes, Flux, Terraform, Prometheus, and Grafana**.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat)
-![Gin](https://img.shields.io/badge/gin-%236336A6.svg?style=flat&logo=go&logoColor=white)
-
-## Frontend
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Ant Design](https://img.shields.io/badge/antdesign-%230170FE.svg?style=flat&logo=ant-design&logoColor=white)
-
-## Database
-
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-
-
-## DevOps
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=canhhuy116&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=canhhuy116&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-# 📈 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=canhhuy116&icon=0&color=0)](https://visitcount.itsvg.in)
+[LinkedIn](https://www.linkedin.com/in/canhhuy116/)
